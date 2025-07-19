@@ -18,10 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-He received the M.S. degree from the School of Computer and Information, Anhui Normal University, Wuhu, China, in 2020, and the Ph.D. degree from the College of Electronics and Information Engineering, Tongji University, Shanghai, China, in 2025. Most recently, I am interested in the following topics:
+My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree from the School of Computer and Information, <i class="fas fa-university"></i> **Anhui Normal University**, Wuhu, China, in 2020, and the Ph.D. degree from the College of Electronics and Information Engineering, <i class="fas fa-university"></i> **Tongji University**,  Shanghai, China, in 2025. 
+
+<div class="quote-accent">
+Most recently, I am interested in the following topics:
 - WiFi Sensing
 - Federated Learning
-- Wireless Communication
+- Wireless Communication.
+</div>
 
 
 # 🔥 News
