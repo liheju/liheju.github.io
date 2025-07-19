@@ -6,29 +6,35 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Li Heju"
-description              : "Everything that rises must converge. "
-repository               : "liheju/liheju.github.io"
+locale                   : "en-US"
+title                    : "Jinxiang Xie"
+title_separator          : "-"
+subtitle                 : 
+name                     : "Jinxiang Xie"
+description              : ""
+url                     : "https://jxtse.github.io"
+baseurl                 : ""
+repository               : "jxtse/jxtse.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  googlea34440bfd0246b9e.html
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Li Heju"
-  avatar           : "images/photo.png"
-  bio              : "College of Electronics and Information Engineering, Tongji University"
-  location         : "Shanghai, China"
+  name             : "Jinxiang Xie"
+  avatar           : "images/android-chrome-512x512.jpg"
+  bio              : "Nanjing University"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ay-NKfsAAAAJ"
-  email            : "lhj01279@163.com"
+  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
+  email            : "jxTse@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,27 +43,47 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liheju"
+  github           : "jxtse"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "richardtse_"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "jinxiang-xie"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-4889-8978"
+  orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "JinxiangTse"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
 
+# 添加语言设置
+languages:
+  - en
+  - zh
+default_lang: "en"
+t:
+  en:
+    home: "Home"
+    about: "About Me"
+    news: "News"
+    publications: "Publications"
+    educations: "Educations"
+    internships: "Internships"
+    blogs: "Blogs"
+  zh:
+    home: "首页"
+    about: "关于"
+    publications: "发表论文"
+    projects: "项目"
+    contact: "联系方式"
 
 # Reading Files
 include:
