@@ -299,11 +299,14 @@ redirect_from:
 My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree from the School of Computer and Information, <i class="fas fa-university"></i> **Anhui Normal University**, Wuhu, China, in 2020, and the Ph.D. degree from the College of Electronics and Information Engineering, <i class="fas fa-university"></i> **Tongji University**,  Shanghai, China, in 2025. 
 
 <div class="quote-accent">
-    Most recently, I am interested in the following topics: 
-    <span class="topic-item">- <span class="primary-gradient-text">WiFi Sensing</span></span>
-    <span class="topic-item">- <span class="primary-gradient-text">Federated Learning</span></span>
-    <span class="topic-item">- <span class="primary-gradient-text">Wireless Communication</span></span>
+    Most recently, I am interested in the following topics:
+    <div>
+    - <span class="primary-gradient-text">WiFi Sensing</span>
+    - <span class="primary-gradient-text">Federated Learning</span>
+    - <span class="primary-gradient-text">Wireless Communication</span>
+    </div>
 </div>
+
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
