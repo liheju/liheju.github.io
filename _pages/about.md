@@ -453,7 +453,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
       <a href="https://doi.org/10.1109/LWC.2025.3557016">Latency Minimization for RIS Empowered Covert Federated Learning</a>
     </h3>
     <div class="publication-authors">
-      <strong>H. Li</strong> and R. Wang*
+      <strong>H. Li</strong>, R. Wang*
     </div>
     <div class="publication-venue">
       IEEE Wireless Communications Letters
@@ -476,7 +476,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
       <a href="https://doi.org/10.1109/ACCESS.2019.2948102">Wi-Motion: A Robust Human Activity Recognition Using WiFi Signals</a>
     </h3>
     <div class="publication-authors">
-      <strong>H. Li</strong>, X. He*, X. Chen, Y. Fang and Q. Fang
+      <strong>H. Li</strong>, X. He*, X. Chen, Y. Fang, Q. Fang
     </div>
     <div class="publication-venue">
       IEEE Access
@@ -499,7 +499,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
       <a href="https://doi.org/10.3390/sym17071115">A Novel Heterogeneous Federated Edge Learning Framework Empowered with SWIPT</a>
     </h3>
     <div class="publication-authors">
-      Y. Fang, S. Shu, Y. Zhu, <strong>H. Li*</strong> and K. Rui
+      Y. Fang, S. Shu, Y. Zhu, <strong>H. Li*</strong>, K. Rui
     </div>
     <div class="publication-venue">
       Symmetry
@@ -518,7 +518,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
       <a href="https://doi.org/10.1109/GLOBECOM48099.2022.10001550">Federated Edge Learning via Reconfigurable Intelligent Surface with One-Bit Quantization</a>
     </h3>
     <div class="publication-authors">
-      <strong>H. Li</strong>, R. Wang*, W. Zhang, and J. Wu
+      <strong>H. Li</strong>, R. Wang*, W. Zhang, J. Wu
     </div>
     <div class="publication-venue">
       <strong>GLOBECOM 2022</strong>
@@ -537,7 +537,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
       <a href="https://doi.org/10.1109/ICCC57788.2023.10233543">RIS-Aided Federated Edge Learning Exploiting Statistical CSI</a>
     </h3>
     <div class="publication-authors">
-      <strong>H. Li</strong>, R. Wang*, J. Wu, W. Zhang and I. Soto
+      <strong>H. Li</strong>, R. Wang*, J. Wu, W. Zhang, I. Soto
     </div>
     <div class="publication-venue">
       <strong>2023 IEEE/CIC International Conference on Communications in China</strong>
