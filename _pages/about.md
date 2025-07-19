@@ -333,8 +333,8 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
 - *2017.09 - 2020.06*: &nbsp;Master of Science at the School of Computer and Information, <span class="primary-gradient-text">Anhui Normal University</span>.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25). See you in Philadelphia!
-- *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
+- *2025.07*: &nbsp;🎉🎉 One paper“A Heterogeneity-Aware Federated Edge Learning Framework with RIS-empowered Wireless Aggregation
+”is submitted to International Journal of Dynamics and Control. 
 
 # 📝 Publications 
 

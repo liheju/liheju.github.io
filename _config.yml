@@ -11,7 +11,7 @@ title                    : "Heju Li"
 title_separator          : "-"
 subtitle                 : 
 name                     : "Heju Li"
-description              : ""
+description     : "Everything that rises must converge. "
 url                     : "https://liheju.github.io"
 baseurl                 : ""
 repository               : "liheju/liheju.github.io"
@@ -28,10 +28,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Heju Li"
-  description              : "Everything that rises must converge. "
   avatar           : "images/photo.png"
   bio              : "College of Electronics and Information Engineering, Tongji University"
-  location         : "Shanghai, China"
+  location         : "Wuhu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ay-NKfsAAAAJ"
@@ -68,7 +67,6 @@ author:
 # 添加语言设置
 languages:
   - en
-  - zh
 default_lang: "en"
 t:
   en:
