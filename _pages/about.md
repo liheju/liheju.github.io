@@ -326,16 +326,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
       <li> Participated in multiple <span class="accent-text">well-known international conferences </span></li>
     </ul>
   </div>
-  
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> Incompetent Explorer</h3>
-    <ul>
-      <li>Visited <span class="accent-text">1 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">5 provinces</span> in China</li>
-      <li>Very limited experience in <span class="primary-gradient-text">social work</span></li>
-    </ul>
   </div>
-</div>
 
 # 📖 Educations
 - *2025.09 - Present*: &nbsp;Master of Science at Kuang Yaming Honors School, <span class="primary-gradient-text">Nanjing University</span>.
