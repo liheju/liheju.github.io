@@ -314,7 +314,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
     <ul>
       <li>Research focus on <span class="accent-text">Federated Learning</span></li>
       <li>Seasoned with a dash of <span class="primary-gradient-text">Wireless Communication</span></li>
-      <li>Topped off with a dollop of<span class="primary-gradient-text">WiFi Sensing</span></li>
+      <li>Topped off with a dollop of <span class="primary-gradient-text">WiFi Sensing</span></li>
       </ul>
   </div>
   
@@ -329,9 +329,8 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
   </div>
 
 # 📖 Educations
-- *2025.09 - Present*: &nbsp;Master of Science at Kuang Yaming Honors School, <span class="primary-gradient-text">Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
-
+- *2020.09 - 2025.03*: &nbsp;Doctor of Philosophy in the College of Electronics and Information Engineering, <span class="primary-gradient-text">Tongji University</span>.
+- *2017.09 - 2020.06*: &nbsp;Master of Science at the School of Computer and Information, <span class="primary-gradient-text">Anhui Normal University</span>.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25). See you in Philadelphia!
@@ -513,120 +512,3 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
   </div>
 </div>
 
-
-# <i class="fas fa-laptop-code"></i> Internships
-- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
-
-# <i class="fas fa-blog"></i> Blogs
-
-<div class="blog-grid">
-<div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">June, 2025</div>
-      <img src="images/pic06.jpg" alt="The Limits of My Language Mean the Limits of My World">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">The Limits of My Language Mean the Limits of My World</div>
-      <div class="blog-description">Drawing on Wittgenstein's philosophy, a recent paper argues that our existing language might be the fundamental bottleneck.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/discovery/item/683c300d000000000f03b1ca?source=webshare&xhsshare=pc_web&xsec_token=AB0PoaiA05YKKE_dU2SOcfxhEzDIPcLsNtqo4slfNuuXw=&xsec_source=pc_share" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/the-limits-of-my-language-are-the-limits-of-my-world-can-we-ever-truly-understand-ai-f7cc72327dac" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">January, 2025</div>
-      <img src="images/pic04.jpg" alt="Beyond the Future of AI">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Beyond the Future of AI: The Dreams and Deceptions of Cryptocurrency</div>
-      <div class="blog-description">My vision of the future: from Bitcoin to an AGI-driven decentralized society. We must design a more sophisticated trust mechanism than blockchain to install “guardrails” for AI.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/beyond-the-future-of-ai-the-dreams-and-deceptions-of-cryptocurrency-5da8d4bbf69e" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2024</div>
-      <img src="images/pic05.jpg" alt="LexiMind">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">LexiMind: An Open-Source LLM-Powered Vocabulary Builder</div>
-      <div class="blog-description">LexiMind is an AI-powered vocabulary builder that integrates LLM-based translation with smart word retention.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/discovery/item/67a48f0d000000001800721c?source=webshare&xhsshare=pc_web&xsec_token=ABXUfGRE_zHTnXbEyaNmuelBHrgbyYI_AxjJL2AYctNxE=&xsec_source=pc_share" class="blog-link">
-          <i class="fas fa-info-circle"></i> Introduction
-        </a>
-        <a href="https://github.com/jxtse/LexiMind" class="blog-link">
-          <i class="fab fa-github"></i> Project
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">July, 2024</div>
-      <img src="images/pic02.jpg" alt="NLP Learning Path">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">My NLP Learning Path as a Mathematics Undergraduate Student</div>
-      <div class="blog-description">I share my learning path and some insights on natural language processing as a mathematics undergraduate student.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/discovery/item/668a35c8000000001e010600?source=webshare&xhsshare=pc_web&xsec_token=ABl3IEpctnnXxbjsYlUul3nTDdCUYhZP7SljcVPMl9I6s=&xsec_source=pc_share" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://www.linkedin.com/posts/jinxiang-xie_naturallanguageprocessing-nlp-learningpath-activity-7215638435393359872-dPr8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmWk88Bhyvl-E41lfo1McNlpiC4YSsk7WQ" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2023</div>
-      <img src="images/pic03.jpg" alt="LLMs Technology">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">LLMs: Cutting-Edge Technology and Future Applications</div>
-      <div class="blog-description">My notes from a presentation on LLMs at the Gaoling School of Artificial Intelligence, Renmin University of China.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzczMzM3MA==&mid=2247483926&idx=1&sn=c6dcaf93ec8d7ecaa760df4682589b21" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">August, 2023</div>
-      <img src="images/pic01.jpg" alt="Prompt Engineering">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Prompt Engineering: How to Better Ask LLMs</div>
-      <div class="blog-description">Introduce a number of methods for optimizing the output of large language models and reducing the probability of irrelevant or incorrect responses.</div>
-      <div class="blog-links">
-        <a href="https://sspai.com/post/82322" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
