@@ -54,12 +54,29 @@ He received the M.S. degree from the School of Computer and Information, Anhui N
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2025</div><img src='images/admm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- <strong>H. Li</strong>, R. Wang*, J. Wu,  W. Zhang and I. Soto. Reconfigurable Intelligent Surface Empowered Federated Edge Learning with Statistical CSI. <strong>IEEE Transactions on Wireless Communications</strong> [[Paper]](https://doi.org/10.1109/TWC.2023.3334250)
+[Efficient Federated Edge Learning with ADMM Over RIS Empowered Wireless Channels](https://doi.org/10.1109/TCCN.2025.3578472)
 
-- <strong>H. Li</strong>, R. Wang*, J. Wu, J. Liu and Y. Li. Efficient Federated Edge Learning with ADMM Over RIS Empowered Wireless Channels. <strong>IEEE Transactions on Cognitive Communications and Networking</strong> [[Paper]](https://doi.org/10.1109/TCCN.2025.3578472)
+**H. Li**, R. Wang*, J. Wu, J. Liu, Y. Li
 
-- <strong>H. Li</strong>, R. Wang*, M. Jiang and J. Liu. STAR-RIS-Empowered Heterogeneous Federated Edge Learning With Flexible Aggregation. <strong>IEEE Internet of Things Journal</strong> [[Paper]](https://doi.org/10.1109/JIOT.2025.3565698)
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:Se3iqnhoufwC) <strong><span class='show_paper_citations' data='ay-NKfsAAAAJ:Se3iqnhoufwC'></span></strong>
+- We focus in this paper on analyzing the training performance of the ADMM-based FEEL system in the presence of noisy wireless channels, and accordingly deploy the reconfigurable intelligent surface to simultaneously assist both the uplink and the downlink transmission.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/scsi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STAR-RIS Empowered Heterogeneous Federated Edge Learning With Flexible Aggregation](https://doi.org/10.1109/JIOT.2025.3565698)
+
+**H. Li**, R. Wang*, M. Jiang, J. Liu
+
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='ay-NKfsAAAAJ:roLk4NBRz8UC'></span></strong>
+- We propose in this paper a novel FEEL framework empowered by simultaneous transmitting and reflecting reconfigurable intelligent surface with flexible aggregation.
+</div>
+</div>
 
 - <strong>H. Li</strong> and R. Wang*. Latency Minimization for RIS Empowered Covert Federated Learning. <strong>IEEE Wireless Communications Letters</strong> [[Paper]](https://doi.org/10.1109/LWC.2025.3557016)
 
