@@ -512,8 +512,12 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
   </div>
 </div>
 
-# 🪽 Beyond Academics
+# <i class="fas fa-laptop-code"></i> Internships
+- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
+- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
+- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
 
+# 🪽 Beyond Academics
 I like <span class="accent-text">singing</span>, <span class="accent-text">dancing</span>, <span class="accent-text">rapping</span> and <span class="accent-text">playing basketball</span>. 
 
 
