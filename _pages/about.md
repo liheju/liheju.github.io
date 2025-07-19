@@ -512,5 +512,44 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
   </div>
 </div>
 
+<div class="publication-box">
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.1109/GLOBECOM48099.2022.10001550">Federated Edge Learning via Reconfigurable Intelligent Surface with One-Bit Quantization</a>
+    </h3>
+    <div class="publication-authors">
+      <strong>H. Li</strong>, R. Wang*, W. Zhang, and J. Wu
+    </div>
+    <div class="publication-venue">
+      <strong>GLOBECOM 2022</strong>
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.1109/GLOBECOM48099.2022.10001550" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-box">
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.1109/ICCC57788.2023.10233543">RIS-Aided Federated Edge Learning Exploiting Statistical CSI</a>
+    </h3>
+    <div class="publication-authors">
+      <strong>H. Li</strong>, R. Wang*, J. Wu, W. Zhang and I. Soto
+    </div>
+    <div class="publication-venue">
+      <strong>2023 IEEE/CIC International Conference on Communications in China</strong>
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.1109/ICCC57788.2023.10233543" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
+
 # <i class="fas fa-laptop-code"></i> Beyond Academics
 I like <span class="primary-gradient-text">singing</span>, <span class="primary-gradient-text">dancing</span>, <span class="primary-gradient-text">rapping</span> and <span class="primary-gradient-text">playing basketball.
