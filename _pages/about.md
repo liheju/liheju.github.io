@@ -299,10 +299,10 @@ redirect_from:
 My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree from the School of Computer and Information, <i class="fas fa-university"></i> **Anhui Normal University**, Wuhu, China, in 2020, and the Ph.D. degree from the College of Electronics and Information Engineering, <i class="fas fa-university"></i> **Tongji University**,  Shanghai, China, in 2025. 
 
 <div class="quote-accent">
-    Most recently, I am interested in the following topics:
-    <div>- <span class="primary-gradient-text">WiFi Sensing</span></div>
-    <div>- <span class="primary-gradient-text">Federated Learning</span></div>
-    <div>- <span class="primary-gradient-text">Wireless Communication</span></div>
+    Most recently, I am interested in the following topics: 
+    <span class="topic-item">- <span class="primary-gradient-text">WiFi Sensing</span></span>
+    <span class="topic-item">- <span class="primary-gradient-text">Federated Learning</span></span>
+    <span class="topic-item">- <span class="primary-gradient-text">Wireless Communication</span></span>
 </div>
 
 <div class="highlight-blocks">
@@ -361,8 +361,87 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
         <strong>Project</strong>
       </a>
       <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:qjMakFHDy7sC'></span></strong>
-      - We propose in this work a novel reconfigurable intelligent surface aided one-bit communication optimization scheme under orthogonal frequency division multiple access to relieve the negative influence of communication error on the SignSGD-based FEEL.
+      </div>
+  </div>
+</div>
+
+<div class="publication-box">
+  <div class="publication-image">
+    <div class="publication-badge">TWC 2023</div>
+    <img src="images/scsi.png" alt="TWC Paper">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.1109/TWC.2023.3334250">Reconfigurable Intelligent Surface Empowered Federated Edge Learning With Statistical CSI</a>
+    </h3>
+    <div class="publication-authors">
+      <strong>H. Li</strong>, R. Wang*, W. Zhang, J. Wu, I. Soto
     </div>
+    <div class="publication-venue">
+      IEEE Transactions on Wireless Communications
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.1109/TWC.2023.3334250" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+      <a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:ufrVoPGSRksC" class="publication-link">
+        <strong>Project</strong>
+      </a>
+      <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:ufrVoPGSRksC'></span></strong>
+    </div>
+  </div>
+</div>
+
+<div class="publication-box">
+  <div class="publication-image">
+    <div class="publication-badge">TCCN 2025</div>
+    <img src="images/admm.png" alt="TCCN Paper">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.1109/TCCN.2025.3578472">Efficient Federated Edge Learning with ADMM Over RIS Empowered Wireless Channels</a>
+    </h3>
+    <div class="publication-authors">
+      <strong>H. Li</strong>, R. Wang*, J. Wu, J. Liu, Y. Li
+    </div>
+    <div class="publication-venue">
+      IEEE Transactions on Cognitive Communications and Networking
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.1109/TCCN.2025.3578472" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+      <a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:Se3iqnhoufwC" class="publication-link">
+        <strong>Project</strong>
+      </a>
+      <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:Se3iqnhoufwC'></span></strong>
+    </div>
+  </div>
+</div>
+
+<div class="publication-box">
+  <div class="publication-image">
+    <div class="publication-badge">IoTJ 2025</div>
+    <img src="images/scsi.png" alt="IoTJ Paper">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.1109/JIOT.2025.3565698">STAR-RIS Empowered Heterogeneous Federated Edge Learning With Flexible Aggregation</a>
+    </h3>
+    <div class="publication-authors">
+      <strong>H. Li</strong>, R. Wang*, M. Jiang, J. Liu
+    </div>
+    <div class="publication-venue">
+      IEEE Internet of Things Journal
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.1109/JIOT.2025.3565698" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+      <a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:roLk4NBRz8UC" class="publication-link">
+        <strong>Project</strong>
+      </a>
+      <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:roLk4NBRz8UC'></span></strong>    </div>
   </div>
 </div>
 
