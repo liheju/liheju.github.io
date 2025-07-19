@@ -425,7 +425,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
 <div class="publication-box">
   <div class="publication-image">
     <div class="publication-badge">IoTJ 2025</div>
-    <img src="images/scsi.png" alt="IoTJ Paper">
+    <img src="images/star.png" alt="IoTJ Paper">
   </div>
   <div class="publication-content">
     <h3 class="publication-title">
@@ -447,6 +447,77 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
       <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:roLk4NBRz8UC'></span></strong>    </div>
   </div>
 </div>
+
+<div class="publication-box">
+  <div class="publication-image">
+    <div class="publication-badge">WCL</div>
+    <img src="images/wcl.png" alt="Paper Image">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.1109/LWC.2025.3557016">Latency Minimization for RIS Empowered Covert Federated Learning</a>
+    </h3>
+    <div class="publication-authors">
+      <strong>H. Li</strong> and R. Wang*
+    </div>
+    <div class="publication-venue">
+      IEEE Wireless Communications Letters
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.1109/LWC.2025.3557016" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-box">
+  <div class="publication-image">
+    <div class="publication-badge">Access</div>
+    <img src="images/access.png" alt="Paper Image">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.1109/ACCESS.2019.2948102">Wi-Motion: A Robust Human Activity Recognition Using WiFi Signals</a>
+    </h3>
+    <div class="publication-authors">
+      <strong>H. Li</strong>, X. He*, X. Chen, Y. Fang and Q. Fang
+    </div>
+    <div class="publication-venue">
+      IEEE Access
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.1109/ACCESS.2019.2948102" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-box">
+  <div class="publication-image">
+    <div class="publication-badge">SY</div>
+    <img src="images/sy.png" alt="Paper Image">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://doi.org/10.3390/sym17071115">A Novel Heterogeneous Federated Edge Learning Framework Empowered with SWIPT</a>
+    </h3>
+    <div class="publication-authors">
+      Y. Fang, S. Shu, Y. Zhu, <strong>H. Li*</strong> and K. Rui
+    </div>
+    <div class="publication-venue">
+      Symmetry
+    </div>
+    <div class="publication-links">
+      <a href="https://doi.org/10.3390/sym17071115" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
+
 
 # <i class="fas fa-graduation-cap"></i> Educations
 - *2025.09 - Present*: &nbsp;Master of Science at Kuang Yaming Honors School, <span class="primary-gradient-text">Nanjing University</span>.
