@@ -295,71 +295,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am an incoming graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. Currently, I am a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
+# 🤵🏻 About me
+My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree from the School of Computer and Information, <i class="fas fa-university"></i> **Anhui Normal University**, Wuhu, China, in 2020, and the Ph.D. degree from the College of Electronics and Information Engineering, <i class="fas fa-university"></i> **Tongji University**,  Shanghai, China, in 2025. 
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
+Most recently, I am interested in the following topics:
+- <span class="primary-gradient-text">WiFi Sensing</span> 
+- <span class="primary-gradient-text">Federated Learning</span> 
+- <span class="primary-gradient-text">Wireless Communication</span> 
 </div>
 
 **I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">My CV</a>.
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
+    <h3><i class="fas fa-microscope"></i> Research Interests</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
-      <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
+      <li>Research focus on <span class="accent-text">Federated Learning</span></li>
+      <li>Seasoned with a dash of <span class="primary-gradient-text">Wireless Communication</span></li>
+      <li>Topped off with a dollop of<span class="primary-gradient-text">WiFi Sensing</span></li>
+      </ul>
+  </div>
+  
+  <div class="highlight-block floating-card">
+    <h3><i class="fas fa-pen-fancy"></i> Main Experiences</h3>
+    <ul>
+      <li>Publications at <span class="accent-text">TWC</span>, <span class="accent-text">TCCN</span>, <span class="accent-text">IoTJ</span></li>
+      <li>As a <span class="accent-text">reviewer </span> for several flagship journals and conferences </li>
+      <li> Participated in multiple <span class="accent-text">well-known international conferences </span></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
+    <h3><i class="fas fa-globe-asia"></i> Incompetent Life Explorer</h3>
     <ul>
-      <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ" class="link-accent">Articles</a> about <span class="primary-gradient-text">Tech & Humanities</span></li>
-    </ul>
-  </div>
-  
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
-    <ul>
-      <li>Visited <span class="accent-text">9 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
-      <li>Rich experience in <span class="primary-gradient-text">social work</span></li>
+      <li>Visited <span class="accent-text">1 countries</span> worldwide</li>
+      <li>Traveled to <span class="accent-text">5 provinces</span> in China</li>
+      <li>Very limited experience in <span class="primary-gradient-text">social work</span></li>
     </ul>
   </div>
 </div>
 
-# <i class="fas fa-fire"></i> News
+# 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25). See you in Philadelphia!
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 
-# <i class="fas fa-file-alt"></i> Publications 
+# 📝 Publications 
 
 <div class="publication-box">
   <div class="publication-image">
-    <div class="publication-badge">AAAI 2025</div>
-    <img src="images/Example_page-0001.png" alt="DSGram Paper">
+    <div class="publication-badge">TWC 2022</div>
+    <img src="images/onebit.png" alt="TWC Paper">
   </div>
   <div class="publication-content">
-    <h3 class="publication-title">DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models</h3>
+    <h3 class="publication-title">One Bit Aggregation for Federated Edge Learning With Reconfigurable Intelligent Surface: Analysis and Optimization</h3>
     <div class="publication-authors">
-      <strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan
+      <strong>H. Li</strong>, R. Wang*, W. Zhang, J. Wu
     </div>
     <div class="publication-venue">
-      In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
+      IEEE transactions on wireless communications
     </div>
     <div class="publication-links">
-      <a href="https://arxiv.org/abs/2412.12832" class="publication-link">
-        <i class="fas fa-file-pdf"></i> Arxiv
+      <a href="https://doi.org/10.1109/TWC.2022.3198881" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Paper
       </a>
-      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="publication-link">
-        <i class="fab fa-github"></i> Code
-      </a>
-    </div>
+     </div>
   </div>
 </div>
 

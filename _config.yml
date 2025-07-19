@@ -27,14 +27,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
-  avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  name             : "Heju Li"
+  description              : "Everything that rises must converge. "
+  avatar           : "images/photo.png"
+  bio              : "College of Electronics and Information Engineering, Tongji University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ay-NKfsAAAAJ"
+  email            : "lhj01279@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +44,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "liheju"
   google_plus      :
   keybase          :
   instagram        : "richardtse_"
@@ -51,13 +52,13 @@ author:
   lastfm           :
   linkedin         : "jinxiang-xie"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : # https://orcid.org/0000-0002-4889-8978"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -77,7 +78,7 @@ t:
     publications: "Publications"
     educations: "Educations"
     internships: "Internships"
-    blogs: "Blogs"
+    blogs: "Love Blogs"
   zh:
     home: "首页"
     about: "关于"
