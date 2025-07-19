@@ -35,14 +35,28 @@ He received the M.S. degree from the School of Computer and Information, Anhui N
 
 [One Bit Aggregation for Federated Edge Learning With Reconfigurable Intelligent Surface: Analysis and Optimization](https://doi.org/10.1109/TWC.2022.3198881)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**H. Li**, R. Wang*, W. Zhang, J. Wu
 
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='ay-NKfsAAAAJ:qjMakFHDy7sC'></span></strong>
 - We propose in this work a novel reconfigurable intelligent surface aided one-bit communication optimization scheme under orthogonal frequency division multiple access to relieve the negative influence of communication error on the SignSGD-based FEEL.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <strong>H. Li</strong>, R. Wang*, J. Wu,  W. Zhang and I. Soto. Reconfigurable Intelligent Surface Empowered Federated Edge Learning with Statistical CSI. <strong>IEEE Transactions on Wireless Communications</strong> [[Paper]](https://doi.org/10.1109/TWC.2023.3334250)
+
+- <strong>H. Li</strong>, R. Wang*, J. Wu, J. Liu and Y. Li. Efficient Federated Edge Learning with ADMM Over RIS Empowered Wireless Channels. <strong>IEEE Transactions on Cognitive Communications and Networking</strong> [[Paper]](https://doi.org/10.1109/TCCN.2025.3578472)
+
+- <strong>H. Li</strong>, R. Wang*, M. Jiang and J. Liu. STAR-RIS-Empowered Heterogeneous Federated Edge Learning With Flexible Aggregation. <strong>IEEE Internet of Things Journal</strong> [[Paper]](https://doi.org/10.1109/JIOT.2025.3565698)
+
+- <strong>H. Li</strong> and R. Wang*. Latency Minimization for RIS Empowered Covert Federated Learning. <strong>IEEE Wireless Communications Letters</strong> [[Paper]](https://doi.org/10.1109/LWC.2025.3557016)
+
+- <strong>H. Li</strong>, X. He*, X. Chen, Y. Fang and Q. Fang. Wi-Motion: A Robust Human Activity Recognition Using WiFi Signals. <strong>IEEE Access</strong> [[Paper]](https://doi.org/10.1109/ACCESS.2019.2948102)
+
+- <strong>H. Li</strong>, R. Wang*, W. Zhang, and J. Wu. Federated Edge Learning via Reconfigurable Intelligent Surface with One-Bit Quantization. <strong>GLOBECOM 2022</strong> [[Paper]](https://doi.org/10.1109/GLOBECOM48099.2022.10001550)
+
+- <strong>H. Li</strong>, R. Wang*, J. Wu,  W. Zhang and I. Soto. RIS-Aided Federated Edge Learning Exploiting Statistical CSI. <strong>2023 IEEE/CIC International Conference on Communications in China</strong> [[Paper]](https://doi.org/10.1109/TWC.2023.3334250)
+
+- Y. Fang, S. Shu, Y. Zhu, <strong>H. Li*</strong> and K. Rui. A Novel Heterogeneous Federated Edge Learning Framework Empowered with SWIPT. <strong>Symmetry</strong> [[Paper]](https://doi.org/10.3390/sym17071115)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
