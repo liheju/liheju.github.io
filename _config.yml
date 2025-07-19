@@ -77,13 +77,7 @@ t:
     news: "News"
     publications: "Publications"
     educations: "Educations"
-    zh:
-    home: "首页"
-    about: "关于"
-    publications: "发表论文"
-    projects: "项目"
-    contact: "联系方式"
-
+    
 # Reading Files
 include:
   - .htaccess
