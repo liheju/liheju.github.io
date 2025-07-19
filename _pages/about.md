@@ -299,10 +299,10 @@ redirect_from:
 My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree from the School of Computer and Information, <i class="fas fa-university"></i> **Anhui Normal University**, Wuhu, China, in 2020, and the Ph.D. degree from the College of Electronics and Information Engineering, <i class="fas fa-university"></i> **Tongji University**,  Shanghai, China, in 2025. 
 
 <div class="quote-accent">
-Most recently, I am interested in the following topics:
-- <span class="primary-gradient-text">WiFi Sensing</span> \
-- <span class="primary-gradient-text">Federated Learning</span> \
-- <span class="primary-gradient-text">Wireless Communication</span> 
+    Most recently, I am interested in the following topics:
+    <div>- <span class="primary-gradient-text">WiFi Sensing</span></div>
+    <div>- <span class="primary-gradient-text">Federated Learning</span></div>
+    <div>- <span class="primary-gradient-text">Wireless Communication</span></div>
 </div>
 
 <div class="highlight-blocks">
@@ -351,15 +351,18 @@ Most recently, I am interested in the following topics:
       <strong>H. Li</strong>, R. Wang*, W. Zhang, J. Wu
     </div>
     <div class="publication-venue">
-      IEEE transactions on wireless communications
+      IEEE Transactions on Wireless Communications
     </div>
     <div class="publication-links">
       <a href="https://doi.org/10.1109/TWC.2022.3198881" class="publication-link">
         <i class="fas fa-file-pdf"></i> Paper
       </a>
-      [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:qjMakFHDy7sC'></span></strong>
-- We propose in this work a novel reconfigurable intelligent surface aided one-bit communication optimization scheme under orthogonal frequency division multiple access to relieve the negative influence of communication error on the SignSGD-based FEEL.
-     </div>
+      <a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC" class="publication-link">
+        <strong>Project</strong>
+      </a>
+      <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:qjMakFHDy7sC'></span></strong>
+      - We propose in this work a novel reconfigurable intelligent surface aided one-bit communication optimization scheme under orthogonal frequency division multiple access to relieve the negative influence of communication error on the SignSGD-based FEEL.
+    </div>
   </div>
 </div>
 
