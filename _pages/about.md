@@ -445,7 +445,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
 
 <div class="publication-box">
   <div class="publication-image">
-    <div class="publication-badge">WCL</div>
+    <div class="publication-badge">WCL2025</div>
     <img src="images/wcl.png" alt="Paper Image">
   </div>
   <div class="publication-content">
@@ -468,7 +468,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
 
 <div class="publication-box">
   <div class="publication-image">
-    <div class="publication-badge">Access</div>
+    <div class="publication-badge">Access2019</div>
     <img src="images/access.png" alt="Paper Image">
   </div>
   <div class="publication-content">
@@ -491,7 +491,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
 
 <div class="publication-box">
   <div class="publication-image">
-    <div class="publication-badge">SY</div>
+    <div class="publication-badge">SY2025</div>
     <img src="images/sy.png" alt="Paper Image">
   </div>
   <div class="publication-content">
