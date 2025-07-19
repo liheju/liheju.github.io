@@ -512,3 +512,8 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
   </div>
 </div>
 
+# 🪽 Beyond Academics
+
+I like <span class="accent-text">singing</span>, <span class="accent-text">dancing</span>, <span class="accent-text">rapping</span> and <span class="accent-text">playing basketball</span>. 
+
+
