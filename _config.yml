@@ -74,9 +74,9 @@ t:
   en:
     home: "Home"
     about: "About Me"
+    educations: "Educations"
     news: "News"
     publications: "Publications"
-    educations: "Educations"
     
 # Reading Files
 include:
