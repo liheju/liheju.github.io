@@ -300,8 +300,8 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
 
 <div class="quote-accent">
 Most recently, I am interested in the following topics:
-- <span class="primary-gradient-text">WiFi Sensing</span> 
-- <span class="primary-gradient-text">Federated Learning</span> 
+- <span class="primary-gradient-text">WiFi Sensing</span> \
+- <span class="primary-gradient-text">Federated Learning</span> \
 - <span class="primary-gradient-text">Wireless Communication</span> 
 </div>
 
@@ -357,9 +357,9 @@ Most recently, I am interested in the following topics:
       <a href="https://doi.org/10.1109/TWC.2022.3198881" class="publication-link">
         <i class="fas fa-file-pdf"></i> Paper
       </a>
-     </div>
-     [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:qjMakFHDy7sC'></span></strong>
+      [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:qjMakFHDy7sC'></span></strong>
 - We propose in this work a novel reconfigurable intelligent surface aided one-bit communication optimization scheme under orthogonal frequency division multiple access to relieve the negative influence of communication error on the SignSGD-based FEEL.
+     </div>
   </div>
 </div>
 
