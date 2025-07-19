@@ -305,8 +305,6 @@ Most recently, I am interested in the following topics:
 - <span class="primary-gradient-text">Wireless Communication</span> 
 </div>
 
-**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">My CV</a>.
-
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Research Interests</h3>
@@ -327,7 +325,7 @@ Most recently, I am interested in the following topics:
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> Incompetent Life Explorer</h3>
+    <h3><i class="fas fa-globe-asia"></i> Incompetent Explorer</h3>
     <ul>
       <li>Visited <span class="accent-text">1 countries</span> worldwide</li>
       <li>Traveled to <span class="accent-text">5 provinces</span> in China</li>
@@ -360,6 +358,8 @@ Most recently, I am interested in the following topics:
         <i class="fas fa-file-pdf"></i> Paper
       </a>
      </div>
+     [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='ayNKfsAAAAJ:qjMakFHDy7sC'></span></strong>
+- We propose in this work a novel reconfigurable intelligent surface aided one-bit communication optimization scheme under orthogonal frequency division multiple access to relieve the negative influence of communication error on the SignSGD-based FEEL.
   </div>
 </div>
 
