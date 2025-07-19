@@ -37,10 +37,23 @@ He received the M.S. degree from the School of Computer and Information, Anhui N
 
 **H. Li**, R. Wang*, W. Zhang, J. Wu
 
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='ay-NKfsAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='NKfsAAAAJ:qjMakFHDy7sC'></span></strong>
 - We propose in this work a novel reconfigurable intelligent surface aided one-bit communication optimization scheme under orthogonal frequency division multiple access to relieve the negative influence of communication error on the SignSGD-based FEEL.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2023</div><img src='images/scsi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reconfigurable Intelligent Surface Empowered Federated Edge Learning With Statistical CSI](https://doi.org/10.1109/TWC.2023.3334250)
+
+**H. Li**, R. Wang*, W. Zhang, J. Wu, I. Soto
+
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ay-NKfsAAAAJ&citation_for_view=ay-NKfsAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='NKfsAAAAJ:ufrVoPGSRksC'></span></strong>
+- We investigate in this paper the RIS-aided FEEL system under the realistic supposition where only the statistical CSI is available among devices.
+</div>
+</div>
+
 
 - <strong>H. Li</strong>, R. Wang*, J. Wu,  W. Zhang and I. Soto. Reconfigurable Intelligent Surface Empowered Federated Edge Learning with Statistical CSI. <strong>IEEE Transactions on Wireless Communications</strong> [[Paper]](https://doi.org/10.1109/TWC.2023.3334250)
 
