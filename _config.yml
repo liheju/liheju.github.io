@@ -75,7 +75,9 @@ t:
     educations: "Educations"
     news: "News"
     publications: "Publications"
-    
+    beyond: "Beyond Academics"
+
+
 # Reading Files
 include:
   - .htaccess
