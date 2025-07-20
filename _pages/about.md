@@ -538,20 +538,22 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
     <h3 class="publication-title">
       <a href="https://doi.org/10.1109/ICCC57788.2023.10233543">RIS-Aided Federated Edge Learning Exploiting Statistical CSI</a>
     </h3>
-    <div class="publication-authors">
-      <strong>H. Li</strong>, R. Wang*, J. Wu, W. Zhang, I. Soto
-    </div>
-    <div class="publication-venue">
-      <strong>2023 IEEE/CIC International Conference on Communications in China</strong>
-    </div>
-    <div class="publication-links">
-      <a href="https://doi.org/10.1109/ICCC57788.2023.10233543" class="publication-link">
-        <i class="fas fa-file-pdf"></i> Paper
-      </a>
+    <div class="publication-info" style="display: flex; justify-content: space-between; align-items: center;">
+      <div>
+        <div class="publication-authors">
+          <strong>H. Li</strong>, R. Wang*, J. Wu, W. Zhang and I. Soto
+        </div>
+        <div class="publication-venue">
+          <strong>2023 IEEE/CIC International Conference on Communications in China</strong>
+        </div>
+      </div>
+      <div class="publication-link">
+        <a href="https://doi.org/10.1109/ICCC57788.2023.10233543" style="text-decoration: none; color: #1E88E5;">
+          Paper
+        </a>
+      </div>
     </div>
   </div>
-</div>
-
 
 # <i class="fas fa-laptop-code"></i> Beyond Academics
 I like <span class="primary-gradient-text">singing</span>, <span class="primary-gradient-text">dancing</span>, <span class="primary-gradient-text">rapping</span> and <span class="primary-gradient-text">playing basketball.
