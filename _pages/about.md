@@ -344,7 +344,9 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
     <img src="images/onebit.png" alt="TWC Paper">
   </div>
   <div class="publication-content">
-    <h3 class="publication-title">One Bit Aggregation for Federated Edge Learning With Reconfigurable Intelligent Surface: Analysis and Optimization</h3>
+    <h3 class="publication-title">
+    <a href="https://doi.org/10.1109/TWC.2023.3334250">One Bit Aggregation for Federated Edge Learning With Reconfigurable Intelligent Surface: Analysis and Optimization</a>
+     </h3>
     <div class="publication-authors">
       <strong>H. Li</strong>, R. Wang*, W. Zhang, J. Wu
     </div>
