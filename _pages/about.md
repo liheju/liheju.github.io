@@ -298,6 +298,14 @@ redirect_from:
 # 🤵🏻 About me
 My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree from the School of Computer and Information, <i class="fas fa-university"></i> **Anhui Normal University**, Wuhu, China, in 2020, and the Ph.D. degree from the College of Electronics and Information Engineering, <i class="fas fa-university"></i> **Tongji University**,  Shanghai, China, in 2025. 
 
+<div class="topic-box">
+    <div class="topic-title">
+        <span class="primary-gradient-text">WiFi Sensing</span>
+    </div>
+    <img src="images/admm.png" alt="WiFi Sensing" class="topic-image">
+    <div class="quote-accent">Exploring the potential of WiFi signals beyond connectivity.</div>
+</div>
+
 <div class="quote-accent">
     Most recently, I am interested in the following topics:
     <div>
