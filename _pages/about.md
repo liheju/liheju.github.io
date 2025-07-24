@@ -305,27 +305,7 @@ My name is <span class="accent-text">Heju Li</span>. I received the M.S. degree 
     - <span class="primary-gradient-text">Federated Learning</span>
     - <span class="primary-gradient-text">Wireless Communication</span>
     </div>
-
-    <div class="highlight-blocks">
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> Research Interests</h3>
-    <ul>
-      <li>Research focus on <span class="accent-text">Federated Learning</span></li>
-      <li>Seasoned with a dash of <span class="primary-gradient-text">Wireless Communication</span></li>
-      <li>Topped off with a dollop of <span class="primary-gradient-text">WiFi Sensing</span></li>
-      </ul>
   </div>
-  
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Main Experiences</h3>
-    <ul>
-      <li>Publications at <span class="accent-text">TWC</span>, <span class="accent-text">TCCN</span>, <span class="accent-text">IoTJ</span></li>
-      <li>As a <span class="accent-text">reviewer </span> for several flagship journals and conferences </li>
-      <li> Participated in multiple <span class="accent-text">well-known international conferences </span></li>
-    </ul>
-  </div>
-  </div>
-</div>
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
